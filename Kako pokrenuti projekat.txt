@@ -1,0 +1,6 @@
+1.Pokrenuti Server
+2.Pokrenuti klijente(koliko zelite)
+3.Izabrati uloge za sve klijente
+4.Zamisliti broj i poslati interval
+5.Izabrati na igracima da li ce se igra vrsiti automatski ili rucno 
+6.Nakon zavrsetka igre na serveru odabrati da li zelite novu igru ili gasite server
